@@ -1,2 +1,2 @@
-realtimeDB랑 연동했고 wrtie,read가능합니다
-테이블 users -> child 트리 구조입니다 
+realtimeDB랑 연동 wrtie,read가능
+table name : user -> PK : 학번 구조입니다. 
